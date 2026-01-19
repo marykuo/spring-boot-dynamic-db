@@ -1,2 +1,3 @@
-# spring-boot-dynamic-db
-a solution of multi-tentant operation
+# spring-boot-dynamic-db-by-map-injection-demo
+
+a solution for multi-tenant operation
